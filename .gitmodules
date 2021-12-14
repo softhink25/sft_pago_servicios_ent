@@ -1,0 +1,3 @@
+[submodule "sft_pago_servicios"]
+	path = sft_pago_servicios
+	url = https://github.com/softhink25/sft_pago_servicios.git
